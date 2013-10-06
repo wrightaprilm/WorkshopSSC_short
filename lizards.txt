@@ -1,0 +1,5 @@
+Species, Samples, Individuals, Offspring
+Green_Anole, 6, 2, 7
+Bahaman_Anole, 1, 2, 3
+Fence_Lizard, 4, 3.5, 2
+Texas_Toad, 1, 1, 0
